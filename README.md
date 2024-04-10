@@ -30,7 +30,7 @@ The project was an in-depth investigation into cybersecurity defense mechanisms,
 - Analyzed attack patterns, origins, and behaviors with Kibana, synthesizing the data into comprehensive threat intelligence reports.
 
 
-## Visual Representation of the SOC Automation Lab Workflow
+## Visual Representation of the Honeypot Deployment and Management Workflow
 
 
 ![Vultr](https://github.com/Falola-Uthman/Honeypot-Deployment-and-Management/assets/50869547/4c7ca057-ed1a-4264-b745-d1c51fe3d73b)
